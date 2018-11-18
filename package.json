@@ -1,0 +1,25 @@
+{
+  "name": "coinflip",
+  "version": "1.0.0",
+  "description": "\"A Server side coin flip\"",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "figlet": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rossio1/node-coin-flip-bootcamp2018c-week08.git"
+  },
+  "author": "Rossio1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rossio1/node-coin-flip-bootcamp2018c-week08/issues"
+  },
+  "homepage": "https://github.com/Rossio1/node-coin-flip-bootcamp2018c-week08#readme"
+}
